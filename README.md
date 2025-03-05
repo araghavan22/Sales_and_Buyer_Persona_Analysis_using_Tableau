@@ -1,5 +1,6 @@
 # Sales_and_Buyer_Persona_Analysis_using_Tableau
-Analysis on a company's sales data 
+
+![Analysis on a company's sales data](https://github.com/araghavan22/Sales_and_Buyer_Persona_Analysis_using_Tableau/blob/main/Buyer%20Persona%20-%20Dashboard%20view.png)
 
 ## Project Overview  
 This project analyzes company sales and buyer persona data using Tableau. The goal is to understand sales distribution, target demographics, and regional sales performance.  
